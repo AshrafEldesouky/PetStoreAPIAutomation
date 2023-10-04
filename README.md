@@ -30,10 +30,10 @@ Secure Ordering: Implement secure and encrypted online ordering processes, safeg
 
 ## Installation
 
-To set up the Quran-MP3 application locally, follow these steps:
+To set up the Pet Store application locally, follow these steps:
 
 1. Clone the repository:
-*   git clone https://github.com/Shady1997/XYZ-Bank.git
+*   git clone https://github.com/AshrafEldesouky/PetStoreAPIAutomation
 2. Navigate to the project directory:
 *   cd Pet Store
 3. Install dependencies:
