@@ -26,6 +26,7 @@ Pet Store is a Quran listening application that offers a wide range of features 
 
 
 Availability Checking: Confirm the availability of desired pet products, ensuring that customers can find and purchase the items they need for their pets.
+
 Secure Ordering: Implement secure and encrypted online ordering processes, safeguarding customer data and ensuring a safe and confidential shopping experience while purchasing pet supplies and services.
 
 ## Installation
